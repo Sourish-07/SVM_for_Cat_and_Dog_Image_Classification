@@ -24,3 +24,5 @@ This project involves implementing a Support Vector Machine (SVM) to classify im
 
 **Conclusion:**
 The project successfully implemented an SVM for image classification, demonstrating the importance of data preprocessing and normalization in achieving effective classification results. Future improvements could involve experimenting with different kernels, hyperparameter tuning, and exploring advanced image processing techniques to enhance the model's performance.
+
+**Dataset Link -** https://www.kaggle.com/c/dogs-vs-cats/data
